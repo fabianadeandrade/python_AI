@@ -17,10 +17,11 @@
     # Kaggle website as exemple to use 
 
 # step 3 - creating AI (always apply 3 steps)
-# 1 - import the AI
-# 2 - create the AI
-# 3 - training the AI
+    # 1 - import the AI
+    # 2 - create the AI
+    # 3 - training the AI
 
 # step 4 - choosing the best model
+    # in this case, the decision tree is the best model to analize the clients score
 
 # step 5 - using our model to make predictions
